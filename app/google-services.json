@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459298883072",
+    "firebase_url": "https://sourvis-9618a.firebaseio.com",
+    "project_id": "sourvis-9618a",
+    "storage_bucket": "sourvis-9618a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459298883072:android:6a1d5e9366cbe407",
+        "android_client_info": {
+          "package_name": "com.dbot5.application.mediahackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459298883072-na6rj4g6vkasm9lbas5rjm7me8e6opdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dbot5.application.mediahackathon",
+            "certificate_hash": "eff6b5e13e5158dc81fb4cca99d3019052057117"
+          }
+        },
+        {
+          "client_id": "459298883072-5ro52oth4abk55env8ksgui64s1t522k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDk8ecfE7DUjTxfEFgQsiJC68aXR-o8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459298883072-5ro52oth4abk55env8ksgui64s1t522k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
